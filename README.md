@@ -1,2 +1,2 @@
 # Home_task
-My hometask during studing
+My hometask during study
