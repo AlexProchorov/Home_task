@@ -1,0 +1,4 @@
+Ivan 25543 RUB
+Dima 23545 RUB
+Vasya 19876 RUB
+Olesya 14235 RUB
